@@ -1,0 +1,41 @@
+h1{
+    font-size: 200%;
+    text-align: center;
+    color:rgba(203, 151, 83, 0.761);
+    transition: .3s;
+    font-family: Cooper;
+}
+
+h1:hover {
+    font-size: 250%;
+}
+
+#container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+  }
+  
+  #container figcaption {
+    position: absolute;
+    top: 145px;
+    right: 20px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    
+  }
+
+  img {
+    text-align: center;
+        
+  }
+
+  p{
+    color:rgb(136, 104, 62)
+  }
+  h5{
+    color: rgb(136, 104, 62);
+    font-size: 100%;
+    line-height:0pc
+  }
+
