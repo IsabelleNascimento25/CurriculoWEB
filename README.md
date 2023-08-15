@@ -1,1 +1,3 @@
-Criação de um currículo web feito no ano de 2022 aprendendo a usar o css com o professor leonardo para a matéria de programação web
+ aprendendo a usar os primeiros conceitos basicos de HTML e o css, e criando o primeiro cúrriculo.
+
+ 
